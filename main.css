@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.section-1 {
+    margin: 20px;
+}
+
+h1 {
+    padding-top: 50px;
+    margin: 0;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.section-1 {
+    background-color: #529CF1;
+    color: white;
+    margin: 0;
+}
+
+.logo {
+    width: 10%;
+}
